@@ -1,4 +1,4 @@
-# Config Server
+##Config Server
 
 O Config Server é um serviço de configuração centralizado para aplicações distribuídas. Ele fornece suporte para armazenamento de configurações externas em um repositório central, como o Git. Este guia rápido ajudará você a baixar e rodar o Config Server localmente.
 
@@ -14,7 +14,7 @@ Antes de começar, certifique-se de que você tem o seguinte instalado:
 
 Primeiro, clone o repositório do Config Server:
 
-```bash
+```
 git clone https://github.com/fean-developer/config-service.git
 cd config-service
 
