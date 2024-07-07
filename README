@@ -14,7 +14,7 @@ Antes de começar, certifique-se de que você tem o seguinte instalado:
 
 Primeiro, clone o repositório do Config Server:
 
-```bash
+```
 git clone https://github.com/fean-developer/config-service.git
 cd config-service
 
