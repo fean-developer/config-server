@@ -1,4 +1,4 @@
-##Config Server
+### Config Server
 
 O Config Server é um serviço de configuração centralizado para aplicações distribuídas. Ele fornece suporte para armazenamento de configurações externas em um repositório central, como o Git. Este guia rápido ajudará você a baixar e rodar o Config Server localmente.
 
